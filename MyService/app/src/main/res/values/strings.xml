@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyService</string>
+    <string name="string_stopservice">Stop Service</string>
+    <string name="service_demo_tag">ServiceDemo</string>
+</resources>
